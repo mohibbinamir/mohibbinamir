@@ -31,5 +31,5 @@ I am a 2nd Year Computer Science undergraduate specialising in Data Analytics at
 - IBM SkillsBuild Data Science 101
 
 ## Connect with Me
-- LinkedIn: [Paste your LinkedIn link here]
+- LinkedIn: www.linkedin.com/in/mohibbinaamir
 - Email: mohibbinamir@gmail.com
