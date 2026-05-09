@@ -1,29 +1,6 @@
-# Hi, I'm Mohib Bin Aamir
+# Hi, I'm Mohib Bin Aamir 👋
 
-I am a 2nd Year Computer Science undergraduate specialising in Data Analytics at Asia Pacific University of Technology and Innovation under a dual degree arrangement with De Montfort University.
-
-## About Me
-- Interested in Data Analytics, Software Development, and Technology-related roles
-- Skilled in Python, Java, SQL, and Object-Oriented Programming
-- Currently seeking internship opportunities
-- Based in Kuala Lumpur, Malaysia
-
-## Experience
-
-- **Data Entry Intern** — Al-Thaqlain Travel and Tours Private Limited (Jul 2024 – Sep 2024)
-  - Prepared and organized visa-related lists and records
-  - Entered and updated structured documentation accurately
-  - Supported administrative tasks related to data handling
-
-- **Private Tutor** — Self-Employed
-  - Provided academic support to O-Level students in Mathematics, Computer Science programming, pseudocode, and Visual Basic
-  - Guided students through technical and academic concepts using clear explanations and structured support
-  - Strengthened communication, patience, teaching, and problem-solving skills
-
-- **Security Head – Citizens Super Cup 2023** — The City School E-11 Campus Islamabad (Dec 2023)
-  - Managed gate security and supervised event security with my co-leader and team
-  - Also represented the college in the volleyball team and contributed to winning the event
-  - Strengthened leadership, teamwork, multitasking, coordination, and problem-solving skills
+I am a Computer Science undergraduate at Asia Pacific University of Technology and Innovation (APU), with interests in **Artificial Intelligence, software development, and data analytics**. I enjoy building practical projects that combine programming, problem-solving, and real-world application.
 
 ## Skills
 - Python
@@ -39,14 +16,17 @@ I am a 2nd Year Computer Science undergraduate specialising in Data Analytics at
 - Basic Networking
 
 ## Projects
-- OOBJ Academic Recovery System
-- SCI-HUB Web Project
-- Data Structures Project
+- **AURA AI Assistant V2** — Local desktop AI assistant with GUI, smart actions, note handling, screenshot support, and Ollama-powered chat
+- **Course Recovery System** — Java-based academic recovery system with GUI, eligibility checks, reporting, and notifications
+- **Python University Management System** — Record and administrative management system using Python file handling
+- **Data Structures Carbon Footprint System** — C++ project using arrays and linked lists for transport and carbon-emission analysis
+- **C Retail Inventory Management System** — C-based modular inventory system with file handling and linked lists
+- **Vellora Hotel Chatbot** — Botpress-based hotel chatbot for bookings, FAQs, and guest support
 
 ## Certifications
 - IBM SkillsBuild Data Fundamentals
 - IBM SkillsBuild Data Science 101
 
 ## Connect with Me
-- LinkedIn: www.linkedin.com/in/mohibbinaamir
-- Email: mohibbinamir@gmail.com
+- LinkedIn: [linkedin.com/in/mohibbinaamir](https://www.linkedin.com/in/mohibbinaamir)
+- Email: [mohibbinaamir@gmail.com](mailto:mohibbinaamir@gmail.com)
