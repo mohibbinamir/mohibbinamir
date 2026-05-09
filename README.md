@@ -8,6 +8,12 @@ I am a 2nd Year Computer Science undergraduate specialising in Data Analytics at
 - Currently seeking internship opportunities
 - Based in Kuala Lumpur, Malaysia
 
+## Experience
+- **Data Entry Intern** — Al-Thaqlain Travel and Tours Private Limited (Jul 2024 – Sep 2024)
+  - Prepared and organized visa-related lists and records
+  - Entered and updated structured documentation accurately
+  - Supported administrative tasks related to data handling
+
 ## Skills
 - Python
 - Java
