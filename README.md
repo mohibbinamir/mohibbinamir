@@ -24,8 +24,10 @@ I am a Computer Science undergraduate at Asia Pacific University of Technology a
 - **Vellora Hotel Chatbot** — Botpress-based hotel chatbot for bookings, FAQs, and guest support
 
 ## Certifications
-- IBM SkillsBuild Data Fundamentals
-- IBM SkillsBuild Data Science 101
+- IBM SkillsBuild Data Science Foundations - Level 2 (V2)
+- IBM SkillsBuild Data Science Methodology
+- IBM SkillsBuild Data Science Foundations - Level 1
+- IBM SkillsBuild Data Science Tools
 
 ## Connect with Me
 - LinkedIn: [linkedin.com/in/mohibbinaamir](https://www.linkedin.com/in/mohibbinaamir)
