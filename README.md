@@ -9,6 +9,8 @@ I am a Computer Science undergraduate at Asia Pacific University of Technology a
 - Linux
 - Data Analysis
 - Data Management
+- System Administration
+- Command Line
 - Object-Oriented Programming
 - Data Structures
 - SQL Server
