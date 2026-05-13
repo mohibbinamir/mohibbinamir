@@ -6,6 +6,7 @@ I am a Computer Science undergraduate at Asia Pacific University of Technology a
 - Python
 - Java
 - SQL
+- Linux
 - Data Analysis
 - Data Management
 - Object-Oriented Programming
@@ -25,6 +26,7 @@ I am a Computer Science undergraduate at Asia Pacific University of Technology a
 
 ## Certifications
 - IBM SkillsBuild Data Science Foundations - Level 2 (V2)
+- Red Hat System Administration I (RH124 - RHA) - Ver. 10
 - IBM SkillsBuild Data Science Methodology
 - IBM SkillsBuild Data Science Foundations - Level 1
 - IBM SkillsBuild Data Science Tools
